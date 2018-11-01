@@ -43,8 +43,10 @@
 - [第五项修炼①](https://book.douban.com/subject/30133649/)
 - [反脆弱](https://book.douban.com/subject/25782902/)
 - [思考，快与慢](https://book.douban.com/subject/10785583/)
+- [原则](https://book.douban.com/subject/27608239/)
 
 # 学习
 
 - [合适](https://book.douban.com/subject/26877827/)
 - [数学思考法](https://book.douban.com/subject/30169994/)
+
