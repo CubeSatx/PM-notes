@@ -21,16 +21,11 @@
 - [游戏化思维](https://book.douban.com/subject/25862775/)
 - [游戏改变世界](https://book.douban.com/subject/10828002/)
 
-# 思考
-
-- [人人时代](https://book.douban.com/subject/11599407/)
-- [认知盈余](https://book.douban.com/subject/7007666/)
-- [极简法则](https://book.douban.com/subject/27135397/)
-
 # 运营
 
 - [增长黑客](https://book.douban.com/subject/27593848/)
 - [增长黑客实战](https://book.douban.com/subject/27065620/)
+- [消费者行为学](https://book.douban.com/subject/25850257/)
 
 # 数据
 
@@ -38,3 +33,18 @@
 - [数据化管理](https://book.douban.com/subject/25909355/)
 - [精益数据分析](https://book.douban.com/subject/26278639/)
 - [数据化决策](https://book.douban.com/subject/25712496/)
+- [IBM SPSS数据分析与挖掘实战案例精粹](https://book.douban.com/subject/21477429/)
+
+# 思考
+
+- [人人时代](https://book.douban.com/subject/11599407/)
+- [认知盈余](https://book.douban.com/subject/7007666/)
+- [极简法则](https://book.douban.com/subject/27135397/)
+- [第五项修炼①](https://book.douban.com/subject/30133649/)
+- [反脆弱](https://book.douban.com/subject/25782902/)
+- [思考，快与慢](https://book.douban.com/subject/10785583/)
+
+# 学习
+
+- [合适](https://book.douban.com/subject/26877827/)
+- [数学思考法](https://book.douban.com/subject/30169994/)
